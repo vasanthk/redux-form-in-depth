@@ -7,3 +7,5 @@
 [Redux Form v5.2.4](http://redux-form.com/5.2.4/#/getting-started)
 
 [Redux Form v4.2.0](https://redux-form.com/4.2.0/#/getting-started)
+
+[Robus form validations](https://medium.com/@rajaraodv/adding-a-robust-form-validation-to-react-redux-apps-616ca240c124#.j1vtvod9d)
