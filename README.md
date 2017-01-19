@@ -8,6 +8,8 @@
 
 [Redux Form v4.2.0](https://redux-form.com/4.2.0/#/getting-started)
 
+[React Redux Form](https://davidkpiano.gitbooks.io/react-redux-form/content/)
+
 [Robust form validations](https://medium.com/@rajaraodv/adding-a-robust-form-validation-to-react-redux-apps-616ca240c124#.j1vtvod9d)
 
 [Ridiculously simple React Redux forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
