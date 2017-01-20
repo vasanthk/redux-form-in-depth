@@ -13,3 +13,5 @@
 [Robust form validations](https://medium.com/@rajaraodv/adding-a-robust-form-validation-to-react-redux-apps-616ca240c124#.j1vtvod9d)
 
 [Ridiculously simple React Redux forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
+
+[Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
