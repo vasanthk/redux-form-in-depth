@@ -32,3 +32,19 @@ export function createField(field, onChange) {
     }
   };
 }
+
+export function hasSyncErrors(errors) {
+  let allErrors = errors;
+  if (allErrors == null) {
+    allErrors = {};
+  }
+  let hasError = false;
+  const fieldKeys = Object.keys(allErrors);
+  for (let i = 0; i < fieldKeys.length; i++) {
+    if (allErrors[fieldKeys[i]] !== undefined) {
+      hasError = true;
+      break;
+    }
+  }
+  return hasError;
+}
