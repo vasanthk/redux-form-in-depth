@@ -17,3 +17,5 @@
 [Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
 
 [Instant form field validation with React's controlled inputs](https://goshakkk.name/instant-form-fields-validation-react/)
+
+[Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
