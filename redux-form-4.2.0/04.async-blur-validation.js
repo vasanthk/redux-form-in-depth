@@ -1,9 +1,18 @@
+/**
+ * To provide asynchronous validation, provide redux-form with an asynchronous validation
+ * function (asyncValidate) that takes an object of form values, and the Redux dispatch function,
+ * and returns a promise that either rejects with an object of errors or resolves.
+ *
+ * You will also need to specify which fields should fire the asynchronous validation when they are
+ * blurred with the asyncBlurFields config property.
+ */
+
 import React, { Component, PropTypes } from 'react'
 import { reduxForm } from 'redux-form'
 export const fields = ['username', 'password'];
 
 const validate = values => {
-  const errors = {}
+  const errors = {};
   if (!values.username) {
     errors.username = 'Required'
   }
@@ -27,7 +36,7 @@ const asyncValidate = (values/*, dispatch */) => {
 
 class AsynchronousBlurValidationForm extends Component {
   render() {
-    const { asyncValidating, fields: { username, password }, resetForm, handleSubmit, submitting } = this.props
+    const { asyncValidating, fields: { username, password }, resetForm, handleSubmit, submitting } = this.props;
     return (<form className="form-horizontal" onSubmit={handleSubmit}>
         <div className={'form-group' + (username.touched && username.error ? ' has-error' : '')}>
           <label className="col-xs-4 control-label">Username</label>
