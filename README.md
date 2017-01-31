@@ -21,3 +21,5 @@
 [Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
 
 [How to Create a Redux-Form with Validation and Initialized Values](http://www.davidmeents.com/blog/create-redux-form-validation-initialized-values/)
+
+[Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
