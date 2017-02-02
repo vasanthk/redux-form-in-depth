@@ -23,3 +23,7 @@
 [How to Create a Redux-Form with Validation and Initialized Values](http://www.davidmeents.com/blog/create-redux-form-validation-initialized-values/)
 
 [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+
+### Videos
+
+[Erik Rasmussen | Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
