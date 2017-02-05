@@ -43,3 +43,5 @@
 [Basics: Using forms in React](https://www.youtube.com/watch?v=1eNIYif69_0)
 
 [Basics: Adding Redux Form](https://www.youtube.com/watch?v=75dlIJ64J8I)
+
+[Basics: Sign Up Form and its State](https://www.youtube.com/watch?v=97fT5ZOcpp4)
