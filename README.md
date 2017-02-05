@@ -33,3 +33,5 @@
 [Erik Rasmussen | Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
 
 [Basic Redux Form](https://www.youtube.com/watch?v=c2D-jjVAEf8)
+
+[Creating Forms with React and Redux](https://www.youtube.com/watch?v=q6NXa14o1f0)
