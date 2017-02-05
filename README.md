@@ -34,4 +34,6 @@
 
 [Basic Redux Form](https://www.youtube.com/watch?v=c2D-jjVAEf8)
 
+[Dynamic Forms with Redux Form](https://www.youtube.com/watch?v=6C22gwvOzaw)
+
 [Creating Forms with React and Redux](https://www.youtube.com/watch?v=q6NXa14o1f0)
