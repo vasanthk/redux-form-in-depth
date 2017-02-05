@@ -40,4 +40,6 @@
 
 [Form Validation made simple with React | Marcelka Hrda](https://www.youtube.com/watch?v=FqscLiODo5c)
 
-[Basic: Using forms in React](https://www.youtube.com/watch?v=1eNIYif69_0)
+[Basics: Using forms in React](https://www.youtube.com/watch?v=1eNIYif69_0)
+
+[Basics: Adding Redux Form](https://www.youtube.com/watch?v=75dlIJ64J8I)
