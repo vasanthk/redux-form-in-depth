@@ -3,7 +3,7 @@
  * Light weight version of Redux form
  */
 
-import React, { PropTypes, Compoent } from "react";
+import React, { PropTypes, Component } from "react";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import deepEqual from 'deep-equal';
