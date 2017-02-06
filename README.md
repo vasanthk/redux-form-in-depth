@@ -28,6 +28,8 @@
 
 [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 
+[Forms—The Compleat Guide](http://livetyping.capcloud.com/blog/forms-the-compleat-guide-part-1-layout-and-alignment.html)
+
 ### Videos
 
 [Erik Rasmussen | Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
