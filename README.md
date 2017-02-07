@@ -22,6 +22,8 @@
 
 [Instant form field validation with React's controlled inputs](https://goshakkk.name/instant-form-fields-validation-react/)
 
+[Redux Form v6 uses Inversion of control - So, what is it?](https://www.youtube.com/watch?v=-kpEP4JeEdc)
+
 [Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
 
 [How to Create a Redux-Form with Validation and Initialized Values](http://www.davidmeents.com/blog/create-redux-form-validation-initialized-values/)
