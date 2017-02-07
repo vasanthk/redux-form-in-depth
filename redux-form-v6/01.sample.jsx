@@ -26,12 +26,12 @@ function mapStateToProps(state) {
   };
 }
 
-export default connect(mapStateToProps, actions)(form(ReduxFormTutorial));
-
 // Defining your form
 const form = reduxForm({
   form: 'ReduxFormTutorial'
 });
+
+export default connect(mapStateToProps, actions)(form(ReduxFormTutorial));
 
 // Handling field/validation - Now a separate stateless fn component
 const renderField = (field) => (
