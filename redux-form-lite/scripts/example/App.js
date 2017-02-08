@@ -40,7 +40,7 @@ class SignUpForm extends Component {
       <form onSubmit={handleSubmit}>
         <div className={'form-group' + (firstName.touched && firstName.error ? ' has-danger' : '')}>
           <label>First Name</label>
-          <input type="text" className="form-control" placeholder="First Name" {...firstName} value=""/>
+          <input type="text" className="form-control" placeholder="First Name" {...firstName} />
           {firstName.touched && firstName.error && <span className="text-help">{firstName.error}</span>}
         </div>
         <div className={'form-group' + (lastName.touched && lastName.error ? ' has-danger' : '')}>
