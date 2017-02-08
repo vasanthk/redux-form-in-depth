@@ -1,8 +1,6 @@
 #Handling forms in Redux!
 
-## Lightweight version of Redux Form
-
-Source code [here](https://github.com/vasanthk/redux-handling-forms/tree/master/redux-form-lite/scripts)
+## Source code for Redux Form Lite [here](https://github.com/vasanthk/redux-handling-forms/tree/master/redux-form-lite/scripts)
 
 ## Docs
 
