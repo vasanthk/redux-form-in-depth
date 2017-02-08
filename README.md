@@ -32,13 +32,16 @@
 
 [Forms—The Compleat Guide](http://livetyping.capcloud.com/blog/forms-the-compleat-guide-part-1-layout-and-alignment.html)
 
-### Videos
+### Redux Form Videos
 
 [Erik Rasmussen | Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
 
 [Basic Redux Form](https://www.youtube.com/watch?v=c2D-jjVAEf8)
 
 [Dynamic Forms with Redux Form](https://www.youtube.com/watch?v=6C22gwvOzaw)
+
+
+### Other Videos
 
 [Creating Forms with React and Redux](https://www.youtube.com/watch?v=q6NXa14o1f0)
 
