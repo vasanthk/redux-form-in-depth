@@ -2,7 +2,7 @@
 
 ## Lightweight version of Redux Form
 
-Check [here](https://github.com/vasanthk/redux-handling-forms/tree/master/redux-form-lite/scripts)
+Source code [here](https://github.com/vasanthk/redux-handling-forms/tree/master/redux-form-lite/scripts)
 
 ## Docs
 
