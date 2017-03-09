@@ -18,6 +18,8 @@
 
 [Ridiculously simple React Redux forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 
+[React Quickly: How to Work with Forms in React](https://www.sitepoint.com/work-with-forms-in-react/)
+
 [Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
 
 ## Related Concepts and FAQs
