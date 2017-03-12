@@ -36,6 +36,8 @@
 
 [Forms—The Compleat Guide](http://livetyping.capcloud.com/blog/forms-the-compleat-guide-part-1-layout-and-alignment.html)
 
+[Alternative: React Redux Form](https://davidkpiano.github.io/react-redux-form/docs.html)
+
 ### Redux Form Videos
 
 [Erik Rasmussen | Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
